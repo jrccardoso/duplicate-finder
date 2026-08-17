@@ -84,6 +84,11 @@ python duplicate_finder.py "C:\Pasta1" "C:\Pasta2" --quarantine "C:\Quarentena" 
 - **Relatório Excel:** `relatorio_duplicados_<timestamp>.xlsx`, criado na primeira diretoria analisada.
 - **Quarentena** (com `--move`): pasta `Quarentena_Duplicados` com os ficheiros duplicados movidos. Colisões de nome são resolvidas automaticamente com um sufixo numérico.
 
+## Contribuições
+
+Contribuições são bem-vindas! Abre um _issue_ para reportar bugs ou sugerir melhorias,
+ou envia um _pull request_.
+
 ## Licença
 
-Ver [LICENSE](LICENSE). Confirma a licença aplicável antes de publicar o repositório.
+Distribuído sob a licença MIT. Ver [LICENSE](LICENSE) para mais detalhes.
