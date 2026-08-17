@@ -1,0 +1,23 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Output do próprio script
+relatorio_duplicados_*.xlsx
+Quarentena_Duplicados/
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Claude Code (definições locais)
+.claude/settings.local.json
